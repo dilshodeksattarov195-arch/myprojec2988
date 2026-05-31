@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerprocess",
+        "uuid": 3994956,
+        "checksum": "iq4tbe"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
